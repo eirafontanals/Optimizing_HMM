@@ -69,8 +69,6 @@ This approach can be applied to other optimization problems where the objective 
 
 In conclusion, we have successfully implemented the genetic algorithm to optimize the parameters of a Hidden Markov Model for the "Dishonest Casino" problem. We demonstrated that the genetic algorithm can effectively explore the solution space, improve the solution quality over generations, and converge to optimal parameters. This project highlights the power of the genetic algorithm in solving complex optimization problems.
 
-Thank you for your attention. We are ready to address any questions you may have about the topic we've discussed today.
-
 ## How to Run the Code
 
 1. Clone the repository:
